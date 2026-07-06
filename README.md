@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Crafting+Immersive+3D+Experiences;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=risheek2005&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/github/stars/risheek2005?style=for-the-badge&color=yellow&label=TOTAL+STARS"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -123,3 +123,46 @@ Software Engineer
 </div>
 
 ---
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/risheek-agarwal-161b83338/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/risheek2005">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Thanks for visiting my universe.
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ **If you like my work, don't forget to star my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</div>
